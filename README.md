@@ -1,4 +1,4 @@
-# Smart_Document_Understanding
+# Intelligent Customer Helpdesk with Smart Document Understanding
 
 This project is Intelligent Customer Help Desk With Smart Document Understanding Category: Artificial Intelligence
 
@@ -26,5 +26,5 @@ https://node-red-tlxwf.eu-gb.mybluemix.net/ui
 
 
 YouTube Link:
-https://youtu.be/P6K0JhEKyi0
+https://youtu.be/pFyi1mBFnaI
 
