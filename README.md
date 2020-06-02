@@ -26,5 +26,4 @@ https://node-red-tlxwf.eu-gb.mybluemix.net/ui
 
 
 YouTube Link:
-https://youtu.be/pFyi1mBFnaI
-
+https://youtu.be/P6K0JhEKyi0
